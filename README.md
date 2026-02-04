@@ -38,5 +38,7 @@ It is a front-end project created to practice real-world React components and UI
 
 ## Installation
 git clone git@github.com:gonz8a-coding/My-netflix-clone.git
+
 npm install
+
 npm run dev
