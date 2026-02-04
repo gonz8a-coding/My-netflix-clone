@@ -5,7 +5,7 @@ The project focuses on layout, responsiveness, and a smooth user experience insp
 
 It is a front-end project created to practice real-world React components and UI structure.
 
-## 🛠 Tech Stack
+## Tech Stack
 - React
 - TypeScript
 - Tailwind CSS
