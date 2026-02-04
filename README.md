@@ -1,4 +1,4 @@
-# Netflix Clone 🎬
+# Netflix Clone
 
 This is a Netflix UI clone built with **React**, **TypeScript**, and **Tailwind CSS**.  
 The project focuses on layout, responsiveness, and a smooth user experience inspired by Netflix.
@@ -11,7 +11,7 @@ It is a front-end project created to practice real-world React components and UI
 - Tailwind CSS
 - Vite
 
-## ✨ Features
+## Features
 - Responsive design (mobile, tablet, desktop)
 - Netflix-style hero section
 - Movies slider with arrows (horizontal scroll)
@@ -20,7 +20,7 @@ It is a front-end project created to practice real-world React components and UI
 - FAQ section
 - Clean and modern UI
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Page
 ![Home](./src/screenshots/Screenshot%202026-02-03%20190831.png)
@@ -36,7 +36,7 @@ It is a front-end project created to practice real-world React components and UI
 
 > Screenshots are from the live version of the project.
 
-## 📦 Installation
+## Installation
 git clone git@github.com:gonz8a-coding/My-netflix-clone.git
 npm install
 npm run dev
