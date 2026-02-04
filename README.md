@@ -36,6 +36,15 @@ It is a front-end project created to practice real-world React components and UI
 
 > Screenshots are from the live version of the project.
 
+
+## Important
+
+This project is a Netflix UI clone for educational purposes only.
+Some browsers may show a security warning due to the hosting environment
+
+
+
+
 ## Installation
 git clone git@github.com:gonz8a-coding/My-netflix-clone.git
 
