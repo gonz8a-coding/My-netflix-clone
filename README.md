@@ -46,7 +46,7 @@ Some browsers may show a security warning due to the hosting environment
 
 
 ## Installation
-git clone git@github.com:gonz8a-coding/My-netflix-clone.git
+git clone git@github.com/gonz8a-coding/My-netflix-clone.git
 
 npm install
 
